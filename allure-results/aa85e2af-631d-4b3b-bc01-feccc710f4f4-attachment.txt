@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"div[role='alert']\"}\n  (Session info: chrome=127.0.6533.89)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF7C0029632+30946]\n\t(No symbol) [0x00007FF7BFFDE3C9]\n\t(No symbol) [0x00007FF7BFED6FDA]\n\t(No symbol) [0x00007FF7BFF2822C]\n\t(No symbol) [0x00007FF7BFF2850C]\n\t(No symbol) [0x00007FF7BFF6DCB7]\n\t(No symbol) [0x00007FF7BFF4CAAF]\n\t(No symbol) [0x00007FF7BFF6B041]\n\t(No symbol) [0x00007FF7BFF4C813]\n\t(No symbol) [0x00007FF7BFF1A6E5]\n\t(No symbol) [0x00007FF7BFF1B021]\n\tGetHandleVerifier [0x00007FF7C015F83D+1301229]\n\tGetHandleVerifier [0x00007FF7C016BDB7+1351783]\n\tGetHandleVerifier [0x00007FF7C0162A03+1313971]\n\tGetHandleVerifier [0x00007FF7C005DD06+245686]\n\t(No symbol) [0x00007FF7BFFE758F]\n\t(No symbol) [0x00007FF7BFFE3804]\n\t(No symbol) [0x00007FF7BFFE3992]\n\t(No symbol) [0x00007FF7BFFDA3EF]\n\tBaseThreadInitThunk [0x00007FFB091F257D+29]\n\tRtlUserThreadStart [0x00007FFB0A54AF28+40]\n"
+}

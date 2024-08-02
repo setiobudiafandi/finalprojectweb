@@ -1,0 +1,23 @@
+{
+  "name": "finalprojectweb",
+  "version": "1.0.0",
+  "description": "web automation using wdio and cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio run ./wdio.conf.js"
+  },
+  "author": "setio",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "@babel/register": "^7.24.6",
+    "@wdio/allure-reporter": "^8.39.0",
+    "@wdio/cli": "^8.39.1",
+    "@wdio/cucumber-framework": "^8.39.0",
+    "@wdio/local-runner": "^8.39.1",
+    "@wdio/spec-reporter": "^8.39.0",
+    "wdio-slack-service": "^2.0.9",
+    "wdio-wait-for": "^3.0.11"
+  }
+}
